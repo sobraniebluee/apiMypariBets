@@ -1,4 +1,4 @@
 # apiMypariBets
 API for myparibets
 
-Hello Wolrd!This My API!
+Hello World!This My API!
